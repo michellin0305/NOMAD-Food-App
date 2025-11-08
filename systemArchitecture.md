@@ -4,7 +4,7 @@
 NOMAD is a real-time, AI-driven food discovery platform built to match users’ hunger context with nearby restaurant availability. It integrates personalized recommendations, restaurant management tools, and quick user actions into a single system.
 
 ## Architecture Diagram (Mermaid)
-```mermaid
+![NOMAD System Architecture](assets/FlowChart.png)
 flowchart TD
   App[Mobile App (React Native)]
   API[API Gateway - Node/Express]
