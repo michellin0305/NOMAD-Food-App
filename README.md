@@ -28,3 +28,7 @@ We’ve all been there — hungry, tired, and overwhelmed by too many options. N
 
 ## Vision
 To make food discovery effortless — because when you’re hungry, simplicity wins.
+
+
+## Created
+Developed by Michael Aniemeke
